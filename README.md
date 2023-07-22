@@ -1,6 +1,6 @@
 ##FlicksAPI 
 
-![image]([https://github.com/G-don/SpringBoot-FlciksAPI/blob/main/VISUALS/1.png])
+![image](https://github.com/G-don/SpringBoot-FlciksAPI/blob/main/VISUALS/1.png)
 
 
 ##TechStack
