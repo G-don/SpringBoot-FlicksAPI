@@ -1,9 +1,7 @@
 ##FlicksAPI 
 
-![image]([https://github.com/G-don/CockTails-singlePageAplication/blob/main/cocktails/VISUALS/7.png](https://github.com/G-don/SpringBoot-FlciksAPI/blob/main/VISUALS/1.png))
-![image]([https://github.com/G-don/CockTails-singlePageAplication/blob/main/cocktails/VISUALS/7.png](https://github.com/G-don/SpringBoot-FlciksAPI/blob/main/VISUALS/2.png))
-![image]([https://github.com/G-don/CockTails-singlePageAplication/blob/main/cocktails/VISUALS/7.png](https://github.com/G-don/SpringBoot-FlciksAPI/blob/main/VISUALS/3.png))
-![image]([https://github.com/G-don/CockTails-singlePageAplication/blob/main/cocktails/VISUALS/7.png](https://github.com/G-don/SpringBoot-FlciksAPI/blob/main/VISUALS/4.png))
+![image]([https://github.com/G-don/SpringBoot-FlciksAPI/blob/main/VISUALS/1.png])
+
 
 ##TechStack
 
