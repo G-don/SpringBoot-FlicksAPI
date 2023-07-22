@@ -24,7 +24,7 @@
 
 ##Description
 
-This is Flicks, where you can leave your review on the list of available movies. Flicks was a challenging project where I built the backend and frontend and we all know the bugs we could catch... but I got them all!
+This is Flicks, where you can leave your review on the list of available movies, and watch trailers on a click of a button. Flicks was a challenging project where I built the backend and frontend and we all know the bugs we could catch... but I got them all!
 I continued to develop my skills in React, Javascript and BootStrap for the frontend, Java, Spring Boot and MongoDB were the technologies used for the backend part of this programme.  
 
 ##Instructions
