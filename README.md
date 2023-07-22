@@ -32,8 +32,10 @@ I continued to develop my skills in React, Javascript and BootStrap for the fron
 If you are cloning this project, you will need to
 
 1 - Make sure you have a database to connect to. (I used MongoDB)
-2 - Run the backend project (use the IDE of your choice)
-3 - Run the frontend with the command: npm start (check the api folder and axiosconfig file and change the base URL if necessary)
+
+2 - Run the backend project (use the IDE of your choice. I used Intellij)
+
+3 - Run the frontend with the command: npm start (check the api folder and axiosconfig file and change the base URL if necessary, VScode was the IDE used)
 
 
 ##Features
